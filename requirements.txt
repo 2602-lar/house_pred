@@ -1,0 +1,12 @@
+asgiref
+Django
+django-tables2
+gunicorn
+joblib
+numpy
+pytz
+scikit-learn
+scipy
+sqlparse
+threadpoolctl
+typing_extensions
